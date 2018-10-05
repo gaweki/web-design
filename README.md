@@ -1,4 +1,5 @@
-<ul>Folder jpg_psd terdiri dari: 
+<h2>Folder jpg_psd terdiri dari: </h2>
+<ul>
 	<li>
 		4 oktober - now : akan di-slicing 
 	</li>
@@ -9,7 +10,8 @@
 
 <hr>
 
-<ul>Folder jpg_psd consists of: 
+<h2>Folder jpg_psd consists of: </h2>
+<ul>
 	<li>
 		4 oktober - now : will be sliced
 	</li>
